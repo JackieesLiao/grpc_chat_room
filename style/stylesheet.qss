@@ -1,0 +1,7 @@
+Dialog#LoginDialog,#RegisterDialog{
+ background-color:rgb(255,255,255)
+}
+
+#userLabel,#passwordLabel{
+  color:black;
+}
